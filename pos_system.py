@@ -28,7 +28,6 @@ def update_order_list():
     for item, price in ordered_items:
         listbox.insert(END, f"{item}        {price} LBP")
     lb_total.config(text=f"Ordered price: {total_price} LBP")
-    lb_total.config(text="Cash Return: 0 LBP")
 
 def new_order():
     global ordered_items, total_price
