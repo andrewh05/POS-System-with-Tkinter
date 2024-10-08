@@ -3,7 +3,7 @@
 This project is a simple Point of Sale (POS) system built using Python's Tkinter library. It allows users to simulate ordering food items and calculates the total price. The user can also process payments, reset the order, or remove items from the order list.
 
 # Features
-*Add Food Items*: Select food items from buttons (Kafta, Shawarma, Beef Steak, Tawouk).
+*Add Food Items*: Select food items from buttons (Kafta, Shawarma, Beef Steak, Tawouk). 
 
 *Order List*: Displays the ordered items with their respective prices.
 
